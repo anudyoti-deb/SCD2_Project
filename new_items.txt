@@ -1,0 +1,4 @@
+item_id,item_name,item_price
+100,'iphone 10',10000
+600,'iphone 16',21000
+700,'iphone 17',25000
