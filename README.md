@@ -1,2 +1,2 @@
-# DE-Projects
-contains all Data Engineering related project files
+Project Source : Namaste Python course by Ankit Bansal
+Worked By : Anudyoti Deb
